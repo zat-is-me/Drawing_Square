@@ -3,7 +3,7 @@ import java.awt.Color;
 
 import javax.swing.JFrame;
 
-import chapman.graphics.JPlot2D;
+import chapman.graphics.JPlot2D;//External jar file
 
 public class Square {
 	public static void main(String[] args) 
